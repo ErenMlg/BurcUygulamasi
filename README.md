@@ -1,5 +1,4 @@
 # HoroscopeApp
-<br>
 My first flutter project for improve myself.<br><br>
 
 # Properties
