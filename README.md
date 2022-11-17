@@ -2,7 +2,7 @@
 My first flutter project for improve myself.<br><br>
 
 # Properties
-In Appbar color of dominant color in the photo<br><br>
+- In Appbar color of dominant color in the photo<br><br>
 
 # Images
 <br>
